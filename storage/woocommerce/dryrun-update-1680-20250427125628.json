@@ -1,0 +1,44 @@
+{
+    "dry_run": {
+        "local_id": 1680,
+        "woo_id": null,
+        "action": "update",
+        "payload": {
+            "name": "Washitape - Lets go to the beach",
+            "sku": "1726",
+            "type": "36",
+            "regular_price": "2.95",
+            "description": "Mooi rolletje washitape van <a href=\"\/merk\/only-happy-things\/\">Only Happy Things.<\/a>\\n\\n Je ontvangt 1 rolletje van 15mm breed en 10 meter lang.",
+            "short_description": "Decoreer creatief met washitape, Lets go to the beach van het merk Only Happy Things",
+            "manage_stock": true,
+            "stock_quantity": 5,
+            "status": 0,
+            "published": "true",
+            "slug": null,
+            "tax_status": "taxable",
+            "tax_class": "",
+            "categories": [
+                "1",
+                "24",
+                "38"
+            ],
+            "tags": [
+                "Zee",
+                "Washitape",
+                "Zon",
+                "Strand",
+                "Vakantie",
+                "Summer"
+            ],
+            "shipping_class": "41",
+            "images": [],
+            "attributes": null,
+            "catalog_visibility": "visible",
+            "menu_order": 0,
+            "backorders": "no",
+            "sold_individually": true,
+            "purchase_note": "",
+            "featured": false
+        }
+    }
+}

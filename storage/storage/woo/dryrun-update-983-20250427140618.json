@@ -1,0 +1,50 @@
+{
+    "dry_run": {
+        "local_id": 983,
+        "woo_id": 6598,
+        "action": "update",
+        "payload": {
+            "name": "A6 Ansichtkaart - Hugging animals: kat",
+            "sku": "1009",
+            "type": "36",
+            "regular_price": "1.25",
+            "description": "Prachtige kaart A6 formaat van merk <a href=\"https:\/\/papierenversier.nl\/merk\/Fripperies\/\">Fripperies<\/a>.\r\n\\n\r\n\\nDe achterkant van de kaart is blanco, wat maakt dat je genoeg schrijfruimte hebt.\r\n\\n\r\n\\nGedrukt op luxe karton met een structuurprint, Tintoretto Gresso 300g papier. De kaart wordt zonder een envelop geleverd.",
+            "short_description": "Stuur een boodschap met de leuke kaart, Hugging animals: kat van het merk Fripperies",
+            "manage_stock": false,
+            "stock_quantity": 0,
+            "status": 0,
+            "published": "true",
+            "slug": null,
+            "tax_status": "taxable",
+            "tax_class": "",
+            "categories": [
+                "18",
+                "45",
+                "19"
+            ],
+            "tags": [
+                "Kaart",
+                "Schattig",
+                "Lief",
+                "Kat",
+                "Dieren",
+                "Knuffel",
+                "Poes",
+                "Hugging animals"
+            ],
+            "shipping_class": "40",
+            "images": [
+                {
+                    "src": null
+                }
+            ],
+            "attributes": null,
+            "catalog_visibility": "visible",
+            "menu_order": 0,
+            "backorders": "no",
+            "sold_individually": true,
+            "purchase_note": "",
+            "featured": false
+        }
+    }
+}

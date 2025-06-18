@@ -1,0 +1,42 @@
+{
+    "dry_run": {
+        "name": "Washitape - TESTENe",
+        "sku": "1727",
+        "status": "publish",
+        "catalog_visibility": "visible",
+        "description": "2",
+        "short_description": "Decoreer creatief met washitape, Lets go to the beach van het merk Only Happy Things",
+        "regular_price": "2.00",
+        "price": "2.00",
+        "manage_stock": false,
+        "stock_quantity": 0,
+        "dimensions": {
+            "length": "10.00",
+            "width": "1.50",
+            "height": "3.00"
+        },
+        "weight": "0.013",
+        "shipping_class_id": "41",
+        "brands": [
+            {
+                "id": 640
+            }
+        ],
+        "categories": [
+            {
+                "id": 17
+            }
+        ],
+        "attributes": [],
+        "meta_data": [
+            {
+                "key": "focus_keyword",
+                "value": "Washitape, Vakantie, Zon, Zee, Strand, Summer"
+            },
+            {
+                "key": "seo_description",
+                "value": "Mooi rolletje washitape van Only Happy things met halloween illustraties"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+TRUNCATE `activity_log`;
+TRUNCATE `finance_transactions`;
+TRUNCATE `invoices`;
+TRUNCATE `invoice_lines`;
+TRUNCATE `orders`;
+TRUNCATE `order_items`;
+TRUNCATE `product_stock`;
+TRUNCATE `product_stock_history`;
+TRUNCATE `purchase_orders`;
+TRUNCATE `purchase_order_items`;
+TRUNCATE `vats`;
+UPDATE `finance_accounts` SET balance = 0;
+UPDATE `finance_accounts` SET balance_old = 0;

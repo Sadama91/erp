@@ -1,0 +1,13 @@
+{
+    "dry_run": {
+        "local_id": 1681,
+        "woo_id": null,
+        "action": "update",
+        "payload": {
+            "name": "Washitape - Lets go to the beach",
+            "regular_price": "",
+            "stock_quantity": 0,
+            "manage_stock": false
+        }
+    }
+}
